@@ -1,1 +1,1 @@
-kbdfsdgf
+print("salam")
